@@ -21,9 +21,21 @@ The website you can browse befro downloading the app
 - Developed all features of the Cori app for the web as well.
 
 ## 🫧 Demo 🫧
+### 1️⃣ main page
 
-<video width="400" controls autoplay>
-    <source src="assets/web1.mov" type="video/mp4">
-    <source src="assets/web2.mov" type="video/mp4">
-    <source src="assets/web3.mov" type="video/mp4">
-</video>
+[!web1](https://user-images.githubusercontent.com/118039042/224260402-49eefcb7-e213-43f3-847c-07e410e80198.mov)
+
+### 2️⃣ menu and paage for viewing a list of abandoned animals at shelters
+
+[!web2](https://user-images.githubusercontent.com/118039042/224260946-35e4f9b3-bd35-4401-8c8c-7a1a619ef578.mov)
+
+### 3️⃣ Receiving verification code with phone number to get app download link
+
+[!web3](https://user-images.githubusercontent.com/118039042/224260968-a502a870-4345-4efa-8209-ba3462136beb.mov)
+
+
+
+
+
+
+
