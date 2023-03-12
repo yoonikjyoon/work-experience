@@ -33,6 +33,10 @@ The website you can browse befro downloading the app
 
 [!web3](https://user-images.githubusercontent.com/118039042/224260968-a502a870-4345-4efa-8209-ba3462136beb.mov)
 
+### 4️⃣ Developed with responsive design.
+
+[!web4](https://user-images.githubusercontent.com/118039042/224518008-1fc1f9af-2ac2-4d3d-868f-328330af0e92.mov)
+
 
 
 
