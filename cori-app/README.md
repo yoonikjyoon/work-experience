@@ -25,9 +25,11 @@ The essential app for being with pets.
   - You can also check more information about adoptable animals.
   -  <video src="https://user-images.githubusercontent.com/118039042/224655261-79579446-5b5c-43bf-b423-42f12b562ebf.mov"></video>
 
-- AI obesity check using photos
+- AI obesity check using photos. (This page is collaborated with native developers to connect Native module and React WebView in React Native)
   - Take a photo to check the obesity level, proper weight, and feeding amount of your pet.
   - If your pet is still growing, you can check the expected weight and recommended feeding amount for their breed and age.
+  -  <video src="https://user-images.githubusercontent.com/118039042/224657146-4bd7ad2c-86a2-4b5e-a2fe-3eefb4ea4911.mov"></video>
+  -  <video src="https://user-images.githubusercontent.com/118039042/224657158-a0916529-9723-41f2-8562-c5202d7dfc55.mov"></video>
   
 - Symptom check and animal hospital reservation.
   - You can check your pet's symptoms and unusual behaviors to identify potential illnesses.
