@@ -23,6 +23,7 @@ The essential app for being with pets.
 - Find dogs and cats that are right for you.
   - Discover adoptable dogs and cats that fit your personality and living environment.
   - You can also check more information about adoptable animals.
+  -  <video src="https://user-images.githubusercontent.com/118039042/224655261-79579446-5b5c-43bf-b423-42f12b562ebf.mov"></video>
 
 - AI obesity check using photos
   - Take a photo to check the obesity level, proper weight, and feeding amount of your pet.
