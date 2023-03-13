@@ -14,7 +14,7 @@ The essential app for being with pets.
 <img src="https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white"/><img src="https://img.shields.io/badge/axios-2A1659?style=for-the-badge&logo=axios&logoColor=white"><img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"><img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&amp;logo=styled-components&amp;logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Story Book-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/><img src="https://img.shields.io/badge/Formik-1F4DC0?style=for-the-badge&logo=formik&logoColor=white"/><img src="https://img.shields.io/badge/Google AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white"/>
-<video src=""></video>
+
 ## 🫧 Features and Demo 🫧
 - Main page after login
   - <video src="https://user-images.githubusercontent.com/118039042/224653836-6b50954e-412f-43bf-b74b-ba6b88308f70.mov"></video><video src="https://user-images.githubusercontent.com/118039042/224653935-b6b110ae-f32d-4e9f-bab1-6771540d2af8.mov"></video>
@@ -35,17 +35,25 @@ The essential app for being with pets.
   - You can check your pet's symptoms and unusual behaviors to identify potential illnesses.
   - You can easily make appointments with veterinary clinics when your pets are sick.
   - You can also access information on diseases, treatments, and expected costs.
+  -  <video src="https://user-images.githubusercontent.com/118039042/224658210-3b6c0697-9fea-46eb-aaf8-8ade53f4faf9.mov"></video>
+  -  <video src="https://user-images.githubusercontent.com/118039042/224659457-eebefdb5-a605-43e1-a221-6c887968743f.mov"></video>
+  -  <video src="https://user-images.githubusercontent.com/118039042/224659494-a44f161f-e0ba-4a25-97f0-eef1900b9e1f.mov"></video>
   
 - Personalized food recommendation service.
   - Get customized food recommendations for your pet based on their characteristics, age, and weight.
   - Find the perfect food for your furry friend with our personalized food recommendation service.
   - We provide food recommendations Personalized to your pet's needs, such as preventing allergies or relieving tear stains, as well as recommendations for specific diseases.
+  -  <video src="https://user-images.githubusercontent.com/118039042/224658225-2f5a48c4-4379-4ba0-9410-fdc58a6171b6.mov"></video>
   
 - Health status record book
   - You can keep detailed records of your pet's urine and feces, food intake, medical history, weight changes, and more.
   - You can easily check your pet's health condition by referring to the recorded information.
+  -  <video src=""></video>
+  -  <video src=""></video>
   
 - You can share and communicate your pet's story.
+  -  <video src=""></video>
+  -  <video src=""></video> 
 
 - Initial app launch
   - Select your desired dogs or cats when launching the app for the first time before Signin or Login
