@@ -19,7 +19,6 @@ The essential app for being with pets.
 - Main page after login
   - <video src="https://user-images.githubusercontent.com/118039042/224653836-6b50954e-412f-43bf-b74b-ba6b88308f70.mov"></video><video src="https://user-images.githubusercontent.com/118039042/224653935-b6b110ae-f32d-4e9f-bab1-6771540d2af8.mov"></video>
   
-
 - Find dogs and cats that are right for you.
   - Discover adoptable dogs and cats that fit your personality and living environment.
   - You can also check more information about adoptable animals.
@@ -48,12 +47,12 @@ The essential app for being with pets.
 - Health status record book
   - You can keep detailed records of your pet's urine and feces, food intake, medical history, weight changes, and more.
   - You can easily check your pet's health condition by referring to the recorded information.
-  -  <video src=""></video>
-  -  <video src=""></video>
-  
+  -  <video src="https://user-images.githubusercontent.com/118039042/224660403-f33cd140-7336-4961-bc1d-f963f063d09c.mov"></video>
+  -  <video src="https://user-images.githubusercontent.com/118039042/224660413-977a2981-831f-464f-bb81-f682ca8982b4.mov"></video>
+
 - You can share and communicate your pet's story.
-  -  <video src=""></video>
-  -  <video src=""></video> 
+  -  <video src="https://user-images.githubusercontent.com/118039042/224661230-10d8264c-6cf2-4ddb-a4ec-7b6b60ebab6e.mov"></video>
+  -  <video src="https://user-images.githubusercontent.com/118039042/224661242-f960c2f1-07fd-4984-b695-c72ce9c059ca.mov"></video> 
 
 - Initial app launch
   - Select your desired dogs or cats when launching the app for the first time before Signin or Login
