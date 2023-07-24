@@ -19,7 +19,7 @@ The essential app for being with pets.
 - Main page after login
   - <video src="https://user-images.githubusercontent.com/118039042/224653836-6b50954e-412f-43bf-b74b-ba6b88308f70.mov"></video><video src="https://user-images.githubusercontent.com/118039042/224653935-b6b110ae-f32d-4e9f-bab1-6771540d2af8.mov"></video>
   
-- Find dogs and cats that are right for you.
+- Find dogs and cats for you.
   - Discover adoptable dogs and cats that fit your personality and living environment.
   - You can also check more information about adoptable animals.
   -  <video src="https://user-images.githubusercontent.com/118039042/224655261-79579446-5b5c-43bf-b423-42f12b562ebf.mov"></video>
