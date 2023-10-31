@@ -1,4 +1,4 @@
-# Work History
+# Work Experience
 #### You can check my work experience here in case the server of my previous company shuts down 😢
 ---
 ### 1️⃣ Cori Inc. 
